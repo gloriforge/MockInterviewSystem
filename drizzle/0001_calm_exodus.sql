@@ -1,0 +1,1 @@
+ALTER TABLE "mockInterview" ADD COLUMN "interviewStage" varchar NOT NULL;
